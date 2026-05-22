@@ -1,13 +1,26 @@
-﻿### Hi there!
+### Hi there, I'm yuerei! 👋
 
-I'm [**Yuerei**](https://github.com/yuerei), a computer science freshman based in SEA.
+I'm a Computer Science freshman based in Southeast Asia with a passion for building (and occasionally abandoning) passion projects.
 
-I love turning ideas into a 1 week project.. and disbands them...
+### Behind the Name 🌙
+The name **yuerei** is a blend of Chinese and Japanese elements meaning **"Moon Spirit"**:
 
-Outside of code, you'll find me watching anime, reading the book, or drawing.
+|  | Script | Meaning |
+| :--- | :--- | :--- |
+| **yuè** | 月 | Moon |
+| **rei** | れい (霊) | Spirit / Soul |
 
-#### Fun Facts:
+---
 
-- I like matcha and hōjicha.
-- I love romance anime 💖.
+### What I Do 💻
+*   I love turning ideas into 1-week projects... and then silently abandoning them to the archive abyss. 😞
+*   When I'm not staring at a compiler, you'll find me watching anime, reading, or drawing.
 
+### Fun Facts 🍵
+*   Huge fan of matcha and hōjicha.
+*   I have a massive soft spot for romance anime 💖.
+
+---
+
+### Connect with Me 🛠️
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yuerei)
