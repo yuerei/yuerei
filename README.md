@@ -19,6 +19,8 @@ The name **yuerei** is a blend of Chinese and Japanese elements meaning **"Moon 
 ### Fun Facts 🍵
 *   Huge fan of matcha and hōjicha.
 *   I have a massive soft spot for romance anime 💖.
+*   I love Cinnamororll, Momonga, Fox, 🪼.
+*   I love 🩵🩷🤍🫧
 
 ---
 
